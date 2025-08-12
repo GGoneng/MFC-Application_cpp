@@ -1,0 +1,8 @@
+﻿  Console.cpp
+C:\Users\이민하\Desktop\C++\Console\Console\Console.cpp(40,22): warning C4477: 'wprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  (소스 파일 '/Console.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\이민하\Desktop\C++\Console\Console\Console.cpp(44,22): warning C4477: 'wprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+  (소스 파일 '/Console.cpp'을(를) 컴파일하는 중)
+  
+  Console.vcxproj -> C:\Users\이민하\Desktop\C++\Console\ARM64\Debug\Console.exe

@@ -1,0 +1,14 @@
+﻿  UDPClient2Dlg.cpp
+C:\Users\이민하\Desktop\C++\UDPClient2\UDPClient2\UDPClient2Dlg.cpp(196,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UDPClient2Dlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\이민하\Desktop\C++\UDPClient2\UDPClient2\UDPClient2Dlg.cpp(428,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UDPClient2Dlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\이민하\Desktop\C++\UDPClient2\UDPClient2\UDPClient2Dlg.cpp(444,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UDPClient2Dlg.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\이민하\Desktop\C++\UDPClient2\UDPClient2\UDPClient2Dlg.cpp(394,8): warning C4101: 'buf' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/UDPClient2Dlg.cpp'을(를) 컴파일하는 중)
+  
+  UDPClient2.vcxproj -> C:\Users\이민하\Desktop\C++\UDPClient2\x64\Debug\UDPClient2.exe

@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Lab02.cpp
+C:\Users\이민하\Desktop\C++\Lab02\Lab02\Lab02.cpp(61,29): warning C4244: '=': 'wchar_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Lab02.cpp'을(를) 컴파일하는 중)
+  
+  Lab02.vcxproj -> C:\Users\이민하\Desktop\C++\Lab02\ARM64\Debug\Lab02.exe

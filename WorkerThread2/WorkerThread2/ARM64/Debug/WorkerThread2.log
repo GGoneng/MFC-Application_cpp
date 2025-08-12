@@ -1,0 +1,6 @@
+﻿  WorkerThread2.cpp
+  WorkerThread2View.cpp
+C:\Users\이민하\Desktop\C++\WorkerThread2\WorkerThread2\WorkerThread2.cpp(121,18): error C2065: 'CPUBusy': 선언되지 않은 식별자입니다.
+  (소스 파일 '/WorkerThread2.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
